@@ -1,3 +1,4 @@
+# 录屏制作GIF开源软件
 ![Captura](https://mathewsachin.github.io/Captura/assets/Banner.png)
 
 [![Master Build Status](https://img.shields.io/appveyor/ci/MathewSachin/Captura/master.svg?style=flat-square&logo=appveyor)](https://ci.appveyor.com/project/MathewSachin/Captura)
